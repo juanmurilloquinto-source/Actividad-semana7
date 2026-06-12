@@ -1,0 +1,13 @@
+PortOST http://localhost:3000/reportes ejemplos-repes.
+Content-Type: application/json
+
+{
+  "tipo": "infraestructura",
+  "descripcion": "Falla en alumbrado público"
+}
+
+###  ejemplos
+
+get http://localhost:3000/reportes ejemplos-repes.
+
+
